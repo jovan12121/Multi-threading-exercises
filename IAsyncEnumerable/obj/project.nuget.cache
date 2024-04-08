@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0TrdNm28me/K7tqcjKB5b0ycOKsibfre1a96GrPlMwGug0OIwTbB8vmN2LmFJUz1j6sQaDz7xWkd+qVGLGBLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\IAsyncEnumerable\\IAsyncEnumerable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jovan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jovan\\.nuget\\packages\\octokit\\10.0.0\\octokit.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

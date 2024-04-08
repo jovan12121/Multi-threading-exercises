@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CAB728-D7F2-4F6D-A292-80828513B4CD}|..\\MultiThreadingTask2Tests\\MultiThreadingTask2Tests.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\multithreadingtask2tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB71084A-481C-4174-B4FE-38E9B9D96EC5}|MultiThreadingTask2.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\multithreadingtask2\\classes\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB71084A-481C-4174-B4FE-38E9B9D96EC5}|MultiThreadingTask2.csproj|solutionrelative:classes\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB71084A-481C-4174-B4FE-38E9B9D96EC5}|MultiThreadingTask2.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\multithreadingtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB71084A-481C-4174-B4FE-38E9B9D96EC5}|MultiThreadingTask2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MultiThreadingTask2Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MultiThreadingTask2Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:10:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\Classes\\ImageDownloader.cs",
+              "RelativeDocumentMoniker": "Classes\\ImageDownloader.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\Classes\\ImageDownloader.cs",
+              "RelativeToolTip": "Classes\\ImageDownloader.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:08:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:44:57.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

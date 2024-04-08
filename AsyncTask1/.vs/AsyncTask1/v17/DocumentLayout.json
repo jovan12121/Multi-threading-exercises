@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\AsyncTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B38179-F7A0-4F1E-BEF4-DC59BE9A5A1A}|..\\Async1Tests\\Async1Tests.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\async1tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE012C21-B785-4FE2-A520-F086628A243B}|AsyncTask1.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\asynctask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE012C21-B785-4FE2-A520-F086628A243B}|AsyncTask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE012C21-B785-4FE2-A520-F086628A243B}|AsyncTask1.csproj|c:\\users\\jovan\\desktop\\multi threading exercises\\asynctask1\\classes\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE012C21-B785-4FE2-A520-F086628A243B}|AsyncTask1.csproj|solutionrelative:classes\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\Async1Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Async1Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\Async1Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Async1Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:53:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\AsyncTask1\\Classes\\ImageDownloader.cs",
+              "RelativeDocumentMoniker": "Classes\\ImageDownloader.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\AsyncTask1\\Classes\\ImageDownloader.cs",
+              "RelativeToolTip": "Classes\\ImageDownloader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:59:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\AsyncTask1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\AsyncTask1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:58:38.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

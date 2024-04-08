@@ -1,0 +1,14 @@
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\bin\Debug\net8.0\MultiThreadingTask3.exe
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\bin\Debug\net8.0\MultiThreadingTask3.deps.json
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\bin\Debug\net8.0\MultiThreadingTask3.runtimeconfig.json
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\bin\Debug\net8.0\MultiThreadingTask3.dll
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\bin\Debug\net8.0\MultiThreadingTask3.pdb
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.AssemblyInfoInputs.cache
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.AssemblyInfo.cs
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.dll
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\refint\MultiThreadingTask3.dll
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.pdb
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\MultiThreadingTask3.genruntimeconfig.cache
+C:\Users\jovan\Desktop\Multi threading exercises\MultiThreadingTask3\obj\Debug\net8.0\ref\MultiThreadingTask3.dll

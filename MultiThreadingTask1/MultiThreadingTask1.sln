@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreadingTask1", "MultiThreadingTask1.csproj", "{82379DB0-94AD-4DAE-8CA5-64406CDC058F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingTask1Tests", "..\MultiThreadingTask1Tests\MultiThreadingTask1Tests.csproj", "{4A7F28A9-F8B1-4489-8BCD-4EECC014A03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82379DB0-94AD-4DAE-8CA5-64406CDC058F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82379DB0-94AD-4DAE-8CA5-64406CDC058F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82379DB0-94AD-4DAE-8CA5-64406CDC058F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82379DB0-94AD-4DAE-8CA5-64406CDC058F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7F28A9-F8B1-4489-8BCD-4EECC014A03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7F28A9-F8B1-4489-8BCD-4EECC014A03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7F28A9-F8B1-4489-8BCD-4EECC014A03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7F28A9-F8B1-4489-8BCD-4EECC014A03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0AF004-A43E-41C0-9774-3FAF1020BFF0}
+	EndGlobalSection
+EndGlobal

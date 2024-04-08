@@ -1,0 +1,14 @@
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\bin\Debug\net8.0\AsyncTask1.exe
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\bin\Debug\net8.0\AsyncTask1.deps.json
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\bin\Debug\net8.0\AsyncTask1.runtimeconfig.json
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\bin\Debug\net8.0\AsyncTask1.dll
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\bin\Debug\net8.0\AsyncTask1.pdb
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.AssemblyInfoInputs.cache
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.AssemblyInfo.cs
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.dll
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\refint\AsyncTask1.dll
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.pdb
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\AsyncTask1.genruntimeconfig.cache
+C:\Users\jovan\Desktop\Multi threading exercises\AsyncTask1\obj\Debug\net8.0\ref\AsyncTask1.dll

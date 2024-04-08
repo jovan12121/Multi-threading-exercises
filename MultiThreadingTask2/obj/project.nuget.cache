@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGQB/sO1BQboMBAtQSdcRESdrz2YkHzSpgcVIFYUvc0KmM63mlfAUiCYztdQPLDmbfH2x/TX6NclbK4M9BuM2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jovan\\Desktop\\Multi threading exercises\\MultiThreadingTask2\\MultiThreadingTask2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jovan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
